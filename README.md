@@ -72,7 +72,7 @@ func (m BasicAuthMiddleware) ServeHTTP(w http.ResponseWriter, r *http.Request, n
 }
 ```
 
-### Optional Middleware
+## Optional Middleware
 
 * [panic_recover](https://github.com/mappymappy/panic_recover)
 * [http_logger](https://github.com/mappymappy/http_logger)
